@@ -9,3 +9,5 @@ berikut code code dari berbagai join tersebut:
 <img width="1272" height="512" alt="image" src="https://github.com/user-attachments/assets/3b84095b-e4c4-481b-9558-929e981edb4f" />
 
 <img width="1312" height="468" alt="image" src="https://github.com/user-attachments/assets/e0f61280-712f-4a68-8938-3033db19714b" />
+
+Berdasarkan penjelasan di atas, dapat disimpulkan bahwa JOIN dalam SQL sangat penting untuk menghubungkan data antar tabel yang memiliki relasi, seperti tabel pelanggan dan pesanan. INNER JOIN digunakan ketika hanya ingin menampilkan data yang saling berhubungan di kedua tabel, LEFT JOIN digunakan untuk menampilkan seluruh data pelanggan meskipun belum memiliki pesanan, sedangkan RIGHT JOIN digunakan untuk menampilkan seluruh data pesanan meskipun data pelanggan tidak tersedia. Pemilihan jenis JOIN harus disesuaikan dengan kebutuhan laporan atau sistem yang sedang dikembangkan.
