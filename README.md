@@ -3,4 +3,4 @@ JOIN dalam SQL digunakan untuk menggabungkan data dari dua tabel yang memiliki h
 
 LEFT JOIN digunakan untuk menampilkan seluruh data dari tabel pelanggan, meskipun pelanggan tersebut belum melakukan pesanan. Jika pelanggan tidak memiliki pesanan, maka kolom produk akan bernilai NULL. Sedangkan RIGHT JOIN menampilkan seluruh data dari tabel pesanan, meskipun data pelanggan tidak ditemukan. Jika tidak ada data pelanggan yang sesuai, maka kolom nama pelanggan akan bernilai NULL. Dengan demikian, pemilihan jenis JOIN bergantung pada kebutuhan data yang ingin ditampilkan dalam sistem.
 berikut code code dari berbagai join tersebut:
-https://github.com/Ryuuzeno/toko/blob/69bcae9a545a633e61c3b0fb76ec317b37430e54/inner.png
+![image alt]https://github.com/Ryuuzeno/toko/blob/69bcae9a545a633e61c3b0fb76ec317b37430e54/inner.png
